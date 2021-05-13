@@ -1,2 +1,2 @@
-# Trading_WallStreetBets_Sentiments
+# Trading WallStreetBets Sentiments
 An algorithmic trading strategy based on sentiment analysis of r/wallstreetbets
