@@ -2,5 +2,5 @@
 <h3 align="center">An algorithmic trading strategy based on sentiment analysis of r/wallstreetbets</h3>
 <br>
 <p align="center"> 
-<img src="wsb_comment_cloud.png">
+<img width=700px src="wsb_comment_cloud.png">
 </p>
